@@ -22,7 +22,7 @@ body{
 .hero-background-img:after{
     content:"";
     position: absolute;
-    background-image: url("/Users/stanleychow/Downloads/spacex-uj3hvdfQujI-unsplash.jpg");
+    background-image: url("https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
